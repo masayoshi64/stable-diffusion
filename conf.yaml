@@ -1,13 +1,13 @@
 - input: |
-    Anime style, 
     panoramic view of girl with her back, 
     in ruins, 
     black hair, 
-    ymmetrical facial features, 
+    symmetrical facial features, 
     hyper realistic, 
     extreme detail, 
     safebooru, 
     realistic lighting, 
     by alphonse mucha, 
-    makoto shinkai
+    makoto shinkai,
+    CG
   batch_size: 2

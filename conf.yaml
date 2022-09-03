@@ -1,4 +1,13 @@
-- input: "The University of Tokyo, makoto shinkai"
+- input: |
+    Anime style, 
+    panoramic view of girl with her back, 
+    in ruins, 
+    black hair, 
+    ymmetrical facial features, 
+    hyper realistic, 
+    extreme detail, 
+    safebooru, 
+    realistic lighting, 
+    by alphonse mucha, 
+    makoto shinkai
   batch_size: 2
-- input: "A girl in ruins, makoto shinkai"
-  batch_size: 1

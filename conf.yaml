@@ -1,0 +1,4 @@
+- input: "The University of Tokyo, makoto shinkai"
+  batch_size: 2
+- input: "A girl in ruins, makoto shinkai"
+  batch_size: 1
